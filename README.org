@@ -1,175 +1,178 @@
 #+TITLE: Mehmet Tekman
 
-#+HTML: <div id="header"></div>
+#+HTML: <a href="https://melpa.org/#/org-treeusage"><img src="https://melpa.org/packages/org-treeusage-badge.svg"></a>
+
+[](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 Hi everyone. This is a little static site about me and my interests.
 This is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
-* Academic CV and Publications
+** Academic CV and Publications
 
   If you're just here for work, here's [[file:CV/mtekman_cv.2020.pdf][my CV]]
 
-* Work
+** Work
 
-** Enterprise Software
-*** Galaxy
-**** [[https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman][tools-iuc]]
-     The tool recipe repository: 58 closed and 6 open pull-requests
-**** [[https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman][galaxy]]
-     The core dev repository: 5 closed and 1 open pull-request
-**** [[https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman][training-material]]
-     The teaching materials repository: 37 closed pull-requests
+*** Enterprise Software
+**** Galaxy
+***** [[https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman][tools-iuc]]
+      The tool recipe repository: 58 closed and 6 open pull-requests
+***** [[https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman][galaxy]]
+      The core dev repository: 5 closed and 1 open pull-request
+***** [[https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman][training-material]]
+      The teaching materials repository: 37 closed pull-requests
 
-** Analysis
-*** Linkage and Haplotype Analysis
-**** [[https://github.com/mtekman/HaploForge][HaploForge]] :phd:
-A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.
-**** [[https://github.com/mtekman/linkage_pipeline][Linkage Pipeline]] :phd:
-Linkage Analysis pipeline for both Autosomal and X-linked penetrances.
-**** [[https://github.com/mtekman/poster-haploforge][poster-haploforge]]
- Latex poster for Haploforge
-**** [[https://github.com/mtekman/phd_thesis][phd-thesis]]
- Latex of PhD Thesis
+*** Analysis
+**** Linkage and Haplotype Analysis
+***** [[https://github.com/mtekman/HaploForge][HaploForge]]                                                        :phd:
+ A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.
+***** [[https://github.com/mtekman/linkage_pipeline][Linkage Pipeline]]                                                  :phd:
+ Linkage Analysis pipeline for both Autosomal and X-linked penetrances.
+***** [[https://github.com/mtekman/poster-haploforge][poster-haploforge]]
+  Latex poster for Haploforge
+***** [[https://github.com/mtekman/phd_thesis][phd-thesis]]
+  Latex of PhD Thesis
 
-*** Variant or Sequence Analysis
-**** [[https://bitbucket.org/momo13/ovas-pipeline/][OVAS]] and [[https://github.com/mtekman/OVAS-ISOmaker][OVAS-maker]]
- Open-source Variant Analysis Suite, and ISO maker.
-**** [[https://github.com/mtekman/ngs_sequencing_pipeline][ngs-pipeline.sh]]
- Skeleton for NGS pipeline, now backbone of OVAS project.
-**** [[https://github.com/mtekman/bedtarget][bedtarget]]
- Grabs regions of genetic context from UCSC databases and reformats them as BED files.
-**** [[https://github.com/mtekman/genepender][genepender]]
- Annotates (often overlapping) BED-defined regions to variants in a VCF file. Used for providing a gene/exon context to variants.
-**** [[https://github.com/mtekman/funcannot][funcannot]]
- Annotates cDNA, protein, mutation type, and other funcational changes to variants in a genepender'd VCF file.
-
-
-*** Genome-wide Association Studies
-**** [[https://github.com/mtekman/MembranousScripts][MembranousScripts]]
- Set of utilities used to perform basic allele testing and parallel processing of LocusZoom plots
+**** Variant or Sequence Analysis
+***** [[https://bitbucket.org/momo13/ovas-pipeline/][OVAS]] and [[https://github.com/mtekman/OVAS-ISOmaker][OVAS-maker]]
+  Open-source Variant Analysis Suite, and ISO maker.
+***** [[https://github.com/mtekman/ngs_sequencing_pipeline][ngs-pipeline.sh]]
+  Skeleton for NGS pipeline, now backbone of OVAS project.
+***** [[https://github.com/mtekman/bedtarget][bedtarget]]
+  Grabs regions of genetic context from UCSC databases and reformats them as BED files.
+***** [[https://github.com/mtekman/genepender][genepender]]
+  Annotates (often overlapping) BED-defined regions to variants in a VCF file. Used for providing a gene/exon context to variants.
+***** [[https://github.com/mtekman/funcannot][funcannot]]
+  Annotates cDNA, protein, mutation type, and other funcational changes to variants in a genepender'd VCF file.
 
 
-** Other
-*** C++ based
-**** [[https://github.com/mtekman/motiondetect][motiondetect]]                                           :motiondetection:
- An FCam-based CImg motion-detector for Maemo devices. MSci Thesis.
-**** [[https://github.com/mtekman/PreciseChisq][PreciseChisq]]
- An example curses program tied in with PAM authentication that executes upon (maxtry) failure
-
-*** Bioinformatic
-**** [[https://github.com/mtekman/bamcover][bamcover]]
- Performs basic pileup statistics of BAM files, depth and coverage.
-**** [[https://github.com/mtekman/RefGeneStats][RefGeneStats]]
- Human Genome Exon/Intron statistics from refGene
-**** [[https://github.com/mtekman/comparing_matrices_mine_grun][comparing-matrices-mine-grun]]
- A comparison of the count matrices produced by Galaxy CelSeq2 workflow, and that by MPI perl scripts, particularly with attention paid to the number of repeating elements
+**** Genome-wide Association Studies
+***** [[https://github.com/mtekman/MembranousScripts][MembranousScripts]]
+  Set of utilities used to perform basic allele testing and parallel processing of LocusZoom plots
 
 
+*** Other
+**** C++ based
+***** [[https://github.com/mtekman/motiondetect][motiondetect]]                                          :motiondetection:
+  An FCam-based CImg motion-detector for Maemo devices. MSci Thesis.
+***** [[https://github.com/mtekman/PreciseChisq][PreciseChisq]]
+  An example curses program tied in with PAM authentication that executes upon (maxtry) failure
 
-* Hobbies
-
-** Leisure
-
-   Cycling, Snowboarding, Wandering. I should probably add something useful here. Oh well.
-
-** Productivity
-*** ZoteroGoogleDrive-PDFLinker
-[[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][Local]] version, and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][Cloud]] version.
-*** [[https://github.com/mtekman/ShellUtils][ShellUtils]]
-Shell functions and scripts for general work (and play) use.
-
-** Random
-*** Games and Javascript Demos
-
-**** P2 Raycast Demo
- Raycast.js
-**** [[https://github.com/mtekman/Slidey][Slidey]]
- HTML5 Slides Creator and Editor
-**** TreeDemo
- Messing around with generational trees. For a much more professional outlook, see the Benchmark test in HaploForge
-**** [[https://github.com/mtekman/diaspora_installer][diaspora-installer]]
- Installer for the BattleStart Galactica Diaspora mod of the FreeSpace2 game
-**** [[https://github.com/mtekman/runescape-motiondetector][runescape-motiondetector]]  :motiondetection:
- Looks for mineable items in Runescape using OpenCV and simulates mouse clicks in Xorg
-
-*** Security
-**** [[https://github.com/mtekman/PAM-curses-warning-formatter][PAM-curses-warning-formatter]]
- An example curses program tied in with PAM authentication that executes upon (maxtry) failure
-**** [[https://github.com/mtekman/iptables-autobanner][iptables-autobanner]]
- Checks journalctl logs for forced entry and adds malicious ip to the iptables ban list, run ideally with cron.
-
-**** [[https://github.com/mtekman/PyFlogger][PyFlogger]]
- CLI python food logger and calorific content displayer
-**** [[https://github.com/mtekman/AlbumMaker][AlbumMaker]]
- Automates anonymous album creation using a dragndrop interface with unix backend.
-**** [[https://github.com/mtekman/maemo_alarm][maemo-alarm]]
- Commandline tool to interface with alarmd library on maemo.
-
-** Emacs :emacs:
-
-   #+begin_src bash :results output
-     sample="emacsrules"
-     text=$(fortune -l -n 300)
-     ind=-1
-     for char in $(echo $text | sed -e 's/\(.\)/\1\n/g'); do
-         if [[ $char =~ [A-Z0-9] ]]; then
-             ind=0  # reset
-             nchar=${sample:$ind:1}
-             echo -n ${nchar^^};
-         elif [[ $char =~ [a-z] ]]; then
-             ind=$(( ($ind + 1) % ${#sample} ))  # crawl
-             nchar=${sample:$ind:1}
-             echo -n ${nchar,,}
-         else
-             echo -n "$char "
-         fi
-     done
-   #+end_src
-
-   #+RESULTS:
-   : EmacsrulesemacsrulEmacsrulesemacsrulesemacsrulesemacsrulesemacsrule, semacsrulesemac, srulesemacsrulEmacsrulesema: Emacsrulesemac' srulese, macsrulesem; acsrulesemacsr' ulesemacsru, lesemac. E' macsrulesemacsrule. EmEmacsrulesemacsrulesemacsrules. Emacsrule, semacs, rulesemacsrulesemacsrulesemacsrulesemacsrulesemacsrulesemac. - - EmacsruEmacsr, " EmacsrEmacsrul" 
-
-*** General Packages                                                  :other:
-**** [[https://gist.github.com/09ef535a0a44fa49ca482e84c5e9399d][emacs config]]
- My Emacs config, constantly updated, broken, updated.
-**** [[https://github.com/mtekman/elisp-depmap.el][elisp-depmap.el]]
- Writes out a graphviz map based on project functions
-**** [[https://github.com/mtekman/remind-bindings.el][remind-bindings.el]]
- Reminders for your init bindings
-**** [[https://github.com/mtekman/terminal-toggle.el][terminal-toggle.el]]
- Elisp package for toggling a terminal
-**** [[https://github.com/mtekman/wiki-drill.el][wiki-drill.el]]
- Elisp library to convert wiki-summary texts into org-drill
-**** [WIP] [[https://github.com/mtekman/planemo-mode.el][planemo-mode.el]]
- A mode to generate Galaxy XML tool files
+**** Bioinformatic
+***** [[https://github.com/mtekman/bamcover][bamcover]]
+  Performs basic pileup statistics of BAM files, depth and coverage.
+***** [[https://github.com/mtekman/RefGeneStats][RefGeneStats]]
+  Human Genome Exon/Intron statistics from refGene
+***** [[https://github.com/mtekman/comparing_matrices_mine_grun][comparing-matrices-mine-grun]]
+  A comparison of the count matrices produced by Galaxy CelSeq2 workflow, and that by MPI perl scripts, particularly with attention paid to the number of repeating elements
 
 
-# * Code
 
-#   #+begin_src elisp
-# (defun html-body-id-filter (output backend info)
-#   "Remove random ID attributes generated by Org."
-#   (when (eq backend 'html)
-#     (replace-regexp-in-string
-#      " id=\"[[:alpha:]-]*org[[:alnum:]]\\{7\\}\""
-#      ""
-#      output t)))
+** Hobbies
 
-# (add-to-list 'org-export-filter-final-output-functions 'html-body-id-filter)
+*** Leisure
 
-#   #+end_src
+    Cycling, Snowboarding, Wandering. I should probably add something useful here. Oh well.
 
-*** Org-Mode Packages                                               :orgmode:
+*** Productivity
+**** ZoteroGoogleDrive-PDFLinker
+ [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][Local]] version, and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][Cloud]] version.
+**** [[https://github.com/mtekman/ShellUtils][ShellUtils]]
+ Shell functions and scripts for general work (and play) use.
 
-   + TODO :: Ideally just mentioning a github link should pull the file, pull the description, and a live demo if exists.
+*** Random
+**** Games and Javascript Demos
+
+***** P2 Raycast Demo
+  Raycast.js
+***** [[https://github.com/mtekman/Slidey][Slidey]]
+  HTML5 Slides Creator and Editor
+***** TreeDemo
+  Messing around with generational trees. For a much more professional outlook, see the Benchmark test in HaploForge
+***** [[https://github.com/mtekman/diaspora_installer][diaspora-installer]]
+  Installer for the BattleStart Galactica Diaspora mod of the FreeSpace2 game
+***** [[https://github.com/mtekman/runescape-motiondetector][runescape-motiondetector]]                              :motiondetection:
+  Looks for mineable items in Runescape using OpenCV and simulates mouse clicks in Xorg
+
+**** Security
+***** [[https://github.com/mtekman/PAM-curses-warning-formatter][PAM-curses-warning-formatter]]
+  An example curses program tied in with PAM authentication that executes upon (maxtry) failure
+***** [[https://github.com/mtekman/iptables-autobanner][iptables-autobanner]]
+  Checks journalctl logs for forced entry and adds malicious ip to the iptables ban list, run ideally with cron.
+
+***** [[https://github.com/mtekman/PyFlogger][PyFlogger]]
+  CLI python food logger and calorific content displayer
+***** [[https://github.com/mtekman/AlbumMaker][AlbumMaker]]
+  Automates anonymous album creation using a dragndrop interface with unix backend.
+***** [[https://github.com/mtekman/maemo_alarm][maemo-alarm]]
+  Commandline tool to interface with alarmd library on maemo.
+
+*** Emacs                                                             :emacs:
+
+    #+begin_src bash :results output
+      sample="emacsrules"
+      text=$(fortune -l -n 300)
+      ind=-1
+      for char in $(echo $text | sed -e 's/\(.\)/\1\n/g'); do
+          if [[ $char =~ [A-Z0-9] ]]; then
+              ind=0  # reset
+              nchar=${sample:$ind:1}
+              echo -n ${nchar^^};
+          elif [[ $char =~ [a-z] ]]; then
+              ind=$(( ($ind + 1) % ${#sample} ))  # crawl
+              nchar=${sample:$ind:1}
+              echo -n ${nchar,,}
+          else
+              echo -n "$char "
+          fi
+      done
+    #+end_src
+
+    #+RESULTS:
+    : EmacsrulesemacsrulEmacsrulesemacsrulesemacsrulesemacsrulesemacsrule, semacsrulesemac, srulesemacsrulEmacsrulesema: Emacsrulesemac' srulese, macsrulesem; acsrulesemacsr' ulesemacsru, lesemac. E' macsrulesemacsrule. EmEmacsrulesemacsrulesemacsrules. Emacsrule, semacs, rulesemacsrulesemacsrulesemacsrulesemacsrulesemacsrulesemac. - - EmacsruEmacsr, " EmacsrEmacsrul" 
+
+**** General Packages                                                 :other:
+***** [[https://gist.github.com/09ef535a0a44fa49ca482e84c5e9399d][emacs config]]
+  My Emacs config, constantly updated, broken, updated.
+***** [[https://github.com/mtekman/elisp-depmap.el][elisp-depmap.el]]
+  Writes out a graphviz map based on project functions
+***** [[https://github.com/mtekman/remind-bindings.el][remind-bindings.el]]
+  Reminders for your init bindings
+***** [[https://github.com/mtekman/terminal-toggle.el][terminal-toggle.el]]
+  Elisp package for toggling a terminal
+***** [[https://github.com/mtekman/wiki-drill.el][wiki-drill.el]]
+  Elisp library to convert wiki-summary texts into org-drill
+***** [WIP] [[https://github.com/mtekman/planemo-mode.el][planemo-mode.el]]
+  A mode to generate Galaxy XML tool files
+
+
+ # * Code
+
+ #   #+begin_src elisp
+ # (defun html-body-id-filter (output backend info)
+ #   "Remove random ID attributes generated by Org."
+ #   (when (eq backend 'html)
+ #     (replace-regexp-in-string
+ #      " id=\"[[:alpha:]-]*org[[:alnum:]]\\{7\\}\""
+ #      ""
+ #      output t)))
+
+ # (add-to-list 'org-export-filter-final-output-functions 'html-body-id-filter)
+
+ #   #+end_src
+
+**** Org-Mode Packages                                              :orgmode:
+
+    + TODO :: Ideally just mentioning a github link should pull the file, pull the description, and a live demo if exists.
      
-**** [[https://github.com/mtekman/org-tanglesync.el][org-mode-manager]]
- A tree-like management tool for your org-mode files
-**** [[https://github.com/mtekman/org-treeusage.el][org-treeusage.el]]
- Examine the density of org headings
-**** [[https://github.com/mtekman/org-treescope.el][org-treescope.el]]
- Provides a time and priority based sparse tree interaction mode
-**** [[https://github.com/mtekman/org-tanglesync.el][org-tanglesync.el]]
- Sync changes between internal org-mode source blocks and tangled files
-**** [[https://github.com/mtekman/org-calories.el][org-calories.el]]
- A calorie tracking food and fitness package for logging your intake/outtake
+***** [[https://github.com/mtekman/org-tanglesync.el][org-mode-manager]]
+  A tree-like management tool for your org-mode files
+***** [[https://github.com/mtekman/org-treeusage.el][org-treeusage.el]]
+  Examine the density of org headings
+***** [[https://github.com/mtekman/org-treescope.el][org-treescope.el]]
+  Provides a time and priority based sparse tree interaction mode
+***** [[https://github.com/mtekman/org-tanglesync.el][org-tanglesync.el]]
+  Sync changes between internal org-mode source blocks and tangled files
+***** [[https://github.com/mtekman/org-calories.el][org-calories.el]]
+  A calorie tracking food and fitness package for logging your intake/outtake
