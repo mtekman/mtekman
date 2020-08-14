@@ -1,35 +1,61 @@
 #+TITLE: Mehmet Tekman
 #+OPTIONS: toc:2
 
-#+HTML: <img src="https://melpa.org/packages/org-treeusage-badge.svg" />
-#+HTML: <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-
-
 Hi everyone. This is a little static readme about my interests.
 
 This is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
-#+HTML: <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-#+HTML: <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=brown" />
-#+HTML: <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
+#+HTML: <a href="" >
+#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=brown" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
+#+HTML: </a>
 
 Contact:
 
-#+HTML: <a href="https://orcid.org/0000-0002-4181-2676"><img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" /></a>
-#+HTML: <a href="https://gitter.im/mtekman"><img src="https://img.shields.io/badge/Gitter-mtekman-informational?style=flat&color=brown&logoColor=white&logo=gitter" /></a>
-#+HTML: <a href="https://www.researchgate.net/profile/Mehmet_Tekman"><img src="https://img.shields.io/badge/-ResearchGate-informational?style=flat&color=brown&logoColor=white&logo=researchgate&labelColor=black" /></a>
+#+HTML: <a href="https://orcid.org/0000-0002-4181-2676">
+#+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
+#+HTML: </a>
+#+HTML: <a href="https://gitter.im/mtekman">
+#+HTML:   <img src="https://img.shields.io/badge/Gitter-mtekman-informational?style=flat&color=brown&logoColor=white&logo=gitter" />
+#+HTML: </a>
+#+HTML: <a href="https://www.researchgate.net/profile/Mehmet_Tekman">
+#+HTML:   <img src="https://img.shields.io/badge/-ResearchGate-informational?style=flat&color=brown&logoColor=white&logo=researchgate&labelColor=black" />
+#+HTML: </a>
 
 Languages:
 
-#+HTML: <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-bash" />
-#+HTML: <img src="https://img.shields.io/badge/-R-informational?style=flat&color=&logoColor=white&labelColor=black&logo=r" />
-#+HTML: <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=&logoColor=white&labelColor=black&logo=python" />
-#+HTML: <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=&logoColor=white&labelColor=black&logo=javascript" />
-#+HTML: <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=&logoColor=white&labelColor=black&logo=C" />
-#+HTML: <img src="https://img.shields.io/badge/-perl-informational?style=flat&color=&logoColor=white&labelColor=black&logo=perl" />
-#+HTML: <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mariadb" />
-#+HTML: <img src="https://img.shields.io/badge/-php-informational?style=flat&color=&logoColor=white&labelColor=black&logo=php" />
-#+HTML: <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=&logoColor=white&labelColor=black" />
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-bash" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-R-informational?style=flat&color=&logoColor=white&labelColor=black&logo=r" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=&logoColor=white&labelColor=black&logo=python" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=&logoColor=white&labelColor=black&logo=javascript" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=&logoColor=white&labelColor=black&logo=C" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-perl-informational?style=flat&color=&logoColor=white&labelColor=black&logo=perl" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mariadb" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/-php-informational?style=flat&color=&logoColor=white&labelColor=black&logo=php" />
+#+HTML: </a>
+#+HTML: <a href="" >
+#+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=&logoColor=white&labelColor=black" />
+#+HTML: </a>
 
 Frameworks:
 
