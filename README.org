@@ -1,12 +1,14 @@
 #+TITLE: Mehmet Tekman
+#+OPTIONS: toc:2
 
-#+HTML: <a href="https://melpa.org/#/org-treeusage"><img src="https://melpa.org/packages/org-treeusage-badge.svg"></a>
+#+HTML: <img src="https://melpa.org/packages/org-treeusage-badge.svg" />
+#+HTML: <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
 
-[](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+Hi everyone. This is a little static readme about my interests.
 
-Hi everyone. This is a little static site about me and my interests.
 This is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
+
 
 ** Academic CV and Publications
 
@@ -73,7 +75,7 @@ This is by far not everything, but I've included repos of mine that I either ded
 
 *** Leisure
 
-    Cycling, Snowboarding, Wandering. I should probably add something useful here. Oh well.
+    Cycling, Snowboarding, Wandering. Usually do all in an ill-equipped care-free fashion. I should probably add something useful here. Oh well.
 
 *** Productivity
 **** ZoteroGoogleDrive-PDFLinker
