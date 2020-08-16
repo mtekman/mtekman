@@ -17,13 +17,13 @@
 Hi everyone. This is a little static profile about my interests. This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
 #+HTML: <b>In a Nutshell:</b><a href="" >
-#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
+#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=846&logoColor=white&color=846" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=brown" />
+#+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=846&logo=gnu-emacs&logoColor=red&color=846" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
+#+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=846&logo=gnu&logoColor=&color=846" />
 #+HTML: </a></td></tr>
 
 #+HTML: <table>
