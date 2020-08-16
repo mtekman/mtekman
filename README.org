@@ -69,20 +69,32 @@ Languages:
 #+HTML: </a>
 Frameworks:
 #+HTML: <a href="https://magit.vc/">
-#+HTML:   <img src="https://img.shields.io/badge/-git+magit-informational?style=flat&color=&logoColor=white&labelColor=black&logo=git" />
+#+HTML:   <img src="https://img.shields.io/badge/-git+magit-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=git" />
 #+HTML: </a>
 #+HTML: <a href="Emacs">
-#+HTML:   <img src="https://img.shields.io/badge/-emacs-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-emacs" />
+#+HTML:   <img src="https://img.shields.io/badge/-emacs-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
 #+HTML: </a>
 #+HTML: <a href="https://pandas.pydata.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-pandas-informational?style=flat&color=&logoColor=white&labelColor=black&logo=pandas" />
+#+HTML:   <img src="https://img.shields.io/badge/-pandas-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=pandas" />
 #+HTML: </a>
 #+HTML: <a href="https://dplyr.tidyverse.org/">
-#+HTML:   <img src="https://img.shields.io/badge/R-ggplot+dplyr-informational?style=flat&color=&logoColor=white&labelColor=black&logo=" />
+#+HTML:   <img src="https://img.shields.io/badge/R-ggplot+dplyr-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
 #+HTML: </a>
-#+HTML: <a href="https://github.com/conda/conda">
-#+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
+#+HTML: <a href="https://bioconda.github.io/">
+#+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
 #+HTML: </a>
+#+HTML: <a href="https://www.qt.io/">
+#+HTML:   <img src="https://img.shields.io/badge/-Qt-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=qt" />
+#+HTML: </a>
+#+HTML: <a href="https://cmake.org/">
+#+HTML:   <img src="https://img.shields.io/badge/-Make/CMake-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=cmake" />
+#+HTML: </a>
+#+HTML: <a href="https://www.docker.com/">
+#+HTML:   <img src="https://img.shields.io/badge/-docker-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=docker" />
+#+HTML: </a>
+# #+HTML: <a href="https://github.com/conda/conda">
+# #+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
+# #+HTML: </a>
 #+HTML: </td>
 #+HTML: <td>
 Android:
@@ -97,7 +109,7 @@ Android:
 #+HTML: </a>
 Desktop:
 #+HTML: <a href="https://stumpwm.github.io/">
-#+HTML:   <img src="https://img.shields.io/badge/-StumpWM-informational?style=flat&color=&logoColor=white&labelColor=black&logo=awesomewm" />
+#+HTML:   <img src="https://img.shields.io/badge/WM-StumpWM-informational?style=flat&color=&logoColor=white&labelColor=black" />
 #+HTML: </a>
 #+HTML: <a href="https://www.gnu.org/software/gnuzilla/">
 #+HTML:   <img src="https://img.shields.io/badge/-IceCat-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-icecat" />
