@@ -41,31 +41,31 @@ Contact:
 #+HTML: <tbody><tr><td>
 Languages:
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-bash" />
+#+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=gnu-bash" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-R-informational?style=flat&color=&logoColor=white&labelColor=black&logo=r" />
+#+HTML:     <img src="https://img.shields.io/badge/-R-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=r" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=&logoColor=white&labelColor=black&logo=python" />
+#+HTML:     <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=python" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=&logoColor=white&labelColor=black&logo=javascript" />
+#+HTML:     <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=javascript" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=&logoColor=white&labelColor=black&logo=C" />
+#+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=C" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-Perl-informational?style=flat&color=&logoColor=white&labelColor=black&logo=perl" />
+#+HTML:     <img src="https://img.shields.io/badge/-Perl-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=perl" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mariadb" />
+#+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=mariadb" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-PHP-informational?style=flat&color=&logoColor=white&labelColor=black&logo=php" />
+#+HTML:     <img src="https://img.shields.io/badge/-PHP-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=php" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=&logoColor=white&labelColor=black" />
+#+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=blue&logoColor=white&labelColor=black" />
 #+HTML: </a>
 Frameworks:
 #+HTML: <a href="https://magit.vc/">
