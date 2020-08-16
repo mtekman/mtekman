@@ -1,14 +1,17 @@
 #+TITLE: Mehmet Tekman
 #+OPTIONS: toc:2
 
-#+HTML: Contact: <a href="https://gitter.im/mtekman">
+#+HTML: <table>
+#+HTML: <tr><td>Contact</td><td>
+#+HTML: <a href="https://gitter.im/mtekman">
 #+HTML:   <img src="https://img.shields.io/badge/Gitter-mtekman-informational?style=flat&color=brown&logoColor=white&logo=gitter" />
 #+HTML: </a>
 #+HTML: <a href="mailto:mtekman89@gmail.com">
-#+HTML:   <img src="https://img.shields.io/badge/-mtekman89-informational?style=flat&color=brown&logoColor=white&logo=gmail" />
+#+HTML:   <img src="https://img.shields.io/badge/-mtekman89-informational?style=flat&color=brown&logoColor=white&logo=gmail&labelColor=grey" />
 #+HTML: </a>
-#+HTML: <br/>
-#+HTML: Profiles + CV: <a href="https://orcid.org/0000-0002-4181-2676">
+#+HTML: </td></tr>
+#+HTML: <tr><td>CV + Academia</td><td>
+#+HTML: <a href="https://orcid.org/0000-0002-4181-2676">
 #+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
 #+HTML: </a>
 #+HTML: <a href="https://www.researchgate.net/profile/Mehmet_Tekman">
@@ -17,6 +20,13 @@
 #+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=grey" />
 #+HTML: </a>
+#+HTML: <a href="CV/mtekman_cv.2020.pdf">
+#+HTML:   <img src="https://img.shields.io/badge/CV-Resume-informational?style=flat&color=brown&logoColor=white&logo=internet-archive&labelColor=grey" />
+#+HTML: </a>
+#+HTML: </td></tr>
+#+HTML: </table>
+
+
 
 
 
@@ -203,11 +213,6 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 -----
 
 /In Detail:/
-
-
-** Academic CV and Publications
-
-  If you're just here for work, here's [[file:CV/mtekman_cv.2020.pdf][my CV]]
 
 ** Work
 
