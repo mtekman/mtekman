@@ -258,60 +258,58 @@ Analysis
 
 
 
-** Work
+**** Work
 
-*** Enterprise Software
-**** Galaxy
-***** [[https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman][tools-iuc]]
-      The tool recipe repository: 58 closed and 6 open pull-requests
-***** [[https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman][galaxy]]
-      The core dev repository: 5 closed and 1 open pull-request
-***** [[https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman][training-material]]
-      The teaching materials repository: 37 closed pull-requests
+***** Enterprise Software
+****** Galaxy
+******* [[https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman][tools-iuc]] :: The tool recipe repository: 58 closed and 6 open pull-requests
+******* [[https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman][galaxy]] :: The core dev repository: 5 closed and 1 open pull-request
+******* [[https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman][training-material]]
+        The teaching materials repository: 37 closed pull-requests
 
-*** Analysis
-**** Linkage and Haplotype Analysis
-***** [[https://github.com/mtekman/HaploForge][HaploForge]]                                                        :phd:
- A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.
-***** [[https://github.com/mtekman/linkage_pipeline][Linkage Pipeline]]                                                  :phd:
- Linkage Analysis pipeline for both Autosomal and X-linked penetrances.
-***** [[https://github.com/mtekman/poster-haploforge][poster-haploforge]]
-  Latex poster for Haploforge
-***** [[https://github.com/mtekman/phd_thesis][phd-thesis]]
-  Latex of PhD Thesis
+***** Analysis
+****** Linkage and Haplotype Analysis
+******* [[https://github.com/mtekman/HaploForge][HaploForge]]                                                      :phd:
+   A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.
+******* [[https://github.com/mtekman/linkage_pipeline][Linkage Pipeline]]                                                :phd:
+   Linkage Analysis pipeline for both Autosomal and X-linked penetrances.
+******* [[https://github.com/mtekman/poster-haploforge][poster-haploforge]]
+    Latex poster for Haploforge
+******* [[https://github.com/mtekman/phd_thesis][phd-thesis]]
+    Latex of PhD Thesis
 
-**** Variant or Sequence Analysis
-***** [[https://bitbucket.org/momo13/ovas-pipeline/][OVAS]] and [[https://github.com/mtekman/OVAS-ISOmaker][OVAS-maker]]
-  Open-source Variant Analysis Suite, and ISO maker.
-***** [[https://github.com/mtekman/ngs_sequencing_pipeline][ngs-pipeline.sh]]
-  Skeleton for NGS pipeline, now backbone of OVAS project.
-***** [[https://github.com/mtekman/bedtarget][bedtarget]]
-  Grabs regions of genetic context from UCSC databases and reformats them as BED files.
-***** [[https://github.com/mtekman/genepender][genepender]]
-  Annotates (often overlapping) BED-defined regions to variants in a VCF file. Used for providing a gene/exon context to variants.
-***** [[https://github.com/mtekman/funcannot][funcannot]]
-  Annotates cDNA, protein, mutation type, and other funcational changes to variants in a genepender'd VCF file.
+****** Variant or Sequence Analysis
+******* [[https://bitbucket.org/momo13/ovas-pipeline/][OVAS]] and [[https://github.com/mtekman/OVAS-ISOmaker][OVAS-maker]]
+    Open-source Variant Analysis Suite, and ISO maker.
+******* [[https://github.com/mtekman/ngs_sequencing_pipeline][ngs-pipeline.sh]]
+    Skeleton for NGS pipeline, now backbone of OVAS project.
+******* [[https://github.com/mtekman/bedtarget][bedtarget]]
+    Grabs regions of genetic context from UCSC databases and reformats them as BED files.
+******* [[https://github.com/mtekman/genepender][genepender]]
+    Annotates (often overlapping) BED-defined regions to variants in a VCF file. Used for providing a gene/exon context to variants.
+******* [[https://github.com/mtekman/funcannot][funcannot]]
+    Annotates cDNA, protein, mutation type, and other funcational changes to variants in a genepender'd VCF file.
 
 
-**** Genome-wide Association Studies
-***** [[https://github.com/mtekman/MembranousScripts][MembranousScripts]]
-  Set of utilities used to perform basic allele testing and parallel processing of LocusZoom plots
+****** Genome-wide Association Studies
+******* [[https://github.com/mtekman/MembranousScripts][MembranousScripts]]
+    Set of utilities used to perform basic allele testing and parallel processing of LocusZoom plots
 
 
-*** Other
-**** C++ based
-***** [[https://github.com/mtekman/motiondetect][motiondetect]]                                          :motiondetection:
-  An FCam-based CImg motion-detector for Maemo devices. MSci Thesis.
-***** [[https://github.com/mtekman/PreciseChisq][PreciseChisq]]
-  An example curses program tied in with PAM authentication that executes upon (maxtry) failure
+***** Other
+****** C++ based
+******* [[https://github.com/mtekman/motiondetect][motiondetect]]                                        :motiondetection:
+    An FCam-based CImg motion-detector for Maemo devices. MSci Thesis.
+******* [[https://github.com/mtekman/PreciseChisq][PreciseChisq]]
+    An example curses program tied in with PAM authentication that executes upon (maxtry) failure
 
-**** Bioinformatic
-***** [[https://github.com/mtekman/bamcover][bamcover]]
-  Performs basic pileup statistics of BAM files, depth and coverage.
-***** [[https://github.com/mtekman/RefGeneStats][RefGeneStats]]
-  Human Genome Exon/Intron statistics from refGene
-***** [[https://github.com/mtekman/comparing_matrices_mine_grun][comparing-matrices-mine-grun]]
-  A comparison of the count matrices produced by Galaxy CelSeq2 workflow, and that by MPI perl scripts, particularly with attention paid to the number of repeating elements
+****** Bioinformatic
+******* [[https://github.com/mtekman/bamcover][bamcover]]
+    Performs basic pileup statistics of BAM files, depth and coverage.
+******* [[https://github.com/mtekman/RefGeneStats][RefGeneStats]]
+    Human Genome Exon/Intron statistics from refGene
+******* [[https://github.com/mtekman/comparing_matrices_mine_grun][comparing-matrices-mine-grun]]
+    A comparison of the count matrices produced by Galaxy CelSeq2 workflow, and that by MPI perl scripts, particularly with attention paid to the number of repeating elements
 
 
 
