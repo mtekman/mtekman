@@ -28,10 +28,10 @@ In a nutshell:
 #+HTML:   <img src="https://img.shields.io/badge/Gitter-mtekman-informational?style=flat&color=brown&logoColor=white&logo=gitter" />
 #+HTML: </a>
 #+HTML: <a href="https://www.researchgate.net/profile/Mehmet_Tekman">
-#+HTML:   <img src="https://img.shields.io/badge/-ResearchGate-informational?style=flat&color=brown&logoColor=white&logo=researchgate&labelColor=black" />
+#+HTML:   <img src="https://img.shields.io/badge/-ResearchGate-informational?style=flat&color=brown&logoColor=white&logo=researchgate" />
 #+HTML: </a>
 #+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
-#+HTML:   <img src="https://img.shields.io/badge/Google-Scholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=black" />
+#+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar" />
 #+HTML: </a>
 #+HTML: </td></tr>
 #+HTML: </tbody></table>
