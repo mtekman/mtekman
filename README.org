@@ -82,27 +82,34 @@ Contact:
 #+HTML: </a>
 #+HTML: </td>
 #+HTML: <td>
-#+HTML: <a href="https://magisk.me/">
-#+HTML:   <img src="https://img.shields.io/badge/-magisk-informational?style=flat&color=&logoColor=white&labelColor=black&logo=magisk" />
-#+HTML: </a>
+Android:
 #+HTML: <a href="https://lineageos.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-Lineage-informational?style=flat&color=&logoColor=white&labelColor=black&logo=lineageOS" />
 #+HTML: </a>
 #+HTML: <a href="https://f-droid.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-F--Droid-informational?style=flat&color=&logoColor=white&labelColor=black&logo=f-droid" />
 #+HTML: </a>
-#+HTML: <a href="https://www.blender.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Blender-informational?style=flat&color=&logoColor=white&labelColor=black&logo=blender" />
+#+HTML: <a href="https://magisk.me/">
+#+HTML:   <img src="https://img.shields.io/badge/-magisk-informational?style=flat&color=&logoColor=white&labelColor=black&logo=magisk" />
 #+HTML: </a>
-#+HTML: <a href="https://www.gnu.org/software/gnuzilla/">
-#+HTML:   <img src="https://img.shields.io/badge/-IceCat+Firefox-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-icecat" />
-#+HTML: </a>
-#+HTML: <a href="https://www.audacityteam.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Audacity-informational?style=flat&color=&logoColor=white&labelColor=black&logo=audacity" />
-#+HTML: </a>
+Desktop:
 #+HTML: <a href="https://stumpwm.github.io/">
 #+HTML:   <img src="https://img.shields.io/badge/-StumpWM-informational?style=flat&color=&logoColor=white&labelColor=black&logo=awesomewm" />
 #+HTML: </a>
+#+HTML: <a href="https://www.gnu.org/software/gnuzilla/">
+#+HTML:   <img src="https://img.shields.io/badge/-IceCat-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-icecat" />
+#+HTML: </a>
+#+HTML: <a href="https://www.mozilla.org/en-US/">
+#+HTML:   <img src="https://img.shields.io/badge/-Firefox-informational?style=flat&color=&logoColor=white&labelColor=black&logo=firefox" />
+#+HTML: </a>
+#+HTML: <a href="https://www.blender.org/">
+#+HTML:   <img src="https://img.shields.io/badge/-Blender-informational?style=flat&color=&logoColor=white&labelColor=black&logo=blender" />
+#+HTML: </a>
+
+# #+HTML: <a href="https://www.audacityteam.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Audacity-informational?style=flat&color=&logoColor=white&labelColor=black&logo=audacity" />
+# #+HTML: </a>
+
 #+HTML: <a href="https://www.gimp.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-GIMP-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gimp" />
 #+HTML: </a>
