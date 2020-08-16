@@ -33,7 +33,7 @@
 Hey. This is a little static profile. It's by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. Click the badges above for links to my public profiles.
 
 
-*** In Brief:
+*** [In Brief]
 
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa" />
@@ -47,7 +47,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 # -----
 
-*** In Essence:
+*** [In Essence]
 
 #+HTML: <table>
 #+HTML: <thead><tr>
@@ -211,7 +211,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 # -----
 
-*** In Detail:
+*** [In Detail]
 
 **** Work
 
