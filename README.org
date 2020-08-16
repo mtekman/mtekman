@@ -123,58 +123,58 @@ Desktop:
 #+HTML:   <img src="https://img.shields.io/badge/-uBlockO-informational?style=flat&color=&logoColor=white&labelColor=black&logo=ublock-origin" />
 #+HTML: </a>
 #+HTML: </td>
-#+HTML: <td>
-#+HTML: <a href="https://bioconda.github.io/">
-#+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
-#+HTML: </a>
-#+HTML: <a href="https://conda-forge.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-conda--forge-informational?style=flat&color=&logoColor=white&labelColor=black&logo=conda-forge" />
-#+HTML: </a>
-#+HTML: <a href="https://www.gnu.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-GNU+FSF-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu" />
-#+HTML: </a>
-#+HTML: <a href="https://www.mozilla.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Mozilla-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mozilla" />
-#+HTML: </a>
-#+HTML: <a href="https://mastodon.social/">
-#+HTML:   <img src="https://img.shields.io/badge/-Mastodon-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mastodon" />
-#+HTML: </a>
-#+HTML: <a href="https://melpa.org/#/">
-#+HTML:   <img src="https://img.shields.io/badge/-MELPA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-emacs" />
-#+HTML: </a>
-#+HTML: <a href="https://www.openstreetmap.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-OpenStreetMap-informational?style=flat&color=&logoColor=white&labelColor=black&logo=openstreetmap" />
-#+HTML: </a>
-#+HTML: <a href="https://ipfs.io/">
-#+HTML:   <img src="https://img.shields.io/badge/-IPFS-informational?style=flat&color=&logoColor=white&labelColor=black&logo=ipfs" />
-#+HTML: </a>
-#+HTML: <a href="https://kodi.tv/">
-#+HTML:   <img src="https://img.shields.io/badge/-Kodi-informational?style=flat&color=&logoColor=white&labelColor=black&logo=kodi" />
-#+HTML: </a>
-#+HTML: <a href="https://xfce.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-XFCE-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xfce" />
-#+HTML: </a>
-#+HTML: <a href="http://www.gnome.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Gnome-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnome" />
-#+HTML: </a>
-#+HTML: <a href="https://www.archlinux.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Arch-informational?style=flat&color=&logoColor=white&labelColor=black&logo=arch-linux" />
-#+HTML: </a>
-#+HTML: <a href="https://nixos.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-NixOS-informational?style=flat&color=&logoColor=white&labelColor=black&logo=nixos" />
-#+HTML: </a>
-#+HTML: <a href="https://www.gentoo.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-gentoo-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gentoo" />
-#+HTML: </a>
-#+HTML: <a href="https://forum.xda-developers.com/android/">
-#+HTML:   <img src="https://img.shields.io/badge/-XDA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xda-developers" />
-#+HTML: </a>
-#+HTML: <a href="https://maemo.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-maemo-informational?style=flat&color=&logoColor=white&labelColor=black" />
-#+HTML: </a>
-#+HTML: <a href="https://www.wikipedia.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Wikipedia-informational?style=flat&color=&logoColor=white&labelColor=black&logo=wikipedia" />
-#+HTML: </a>
+# #+HTML: <td>
+# #+HTML: <a href="https://bioconda.github.io/">
+# #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
+# #+HTML: </a>
+# #+HTML: <a href="https://conda-forge.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-conda--forge-informational?style=flat&color=&logoColor=white&labelColor=black&logo=conda-forge" />
+# #+HTML: </a>
+# #+HTML: <a href="https://www.gnu.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-GNU+FSF-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu" />
+# #+HTML: </a>
+# #+HTML: <a href="https://www.mozilla.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Mozilla-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mozilla" />
+# #+HTML: </a>
+# #+HTML: <a href="https://mastodon.social/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Mastodon-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mastodon" />
+# #+HTML: </a>
+# #+HTML: <a href="https://melpa.org/#/">
+# #+HTML:   <img src="https://img.shields.io/badge/-MELPA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-emacs" />
+# #+HTML: </a>
+# #+HTML: <a href="https://www.openstreetmap.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-OpenStreetMap-informational?style=flat&color=&logoColor=white&labelColor=black&logo=openstreetmap" />
+# #+HTML: </a>
+# #+HTML: <a href="https://ipfs.io/">
+# #+HTML:   <img src="https://img.shields.io/badge/-IPFS-informational?style=flat&color=&logoColor=white&labelColor=black&logo=ipfs" />
+# #+HTML: </a>
+# #+HTML: <a href="https://kodi.tv/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Kodi-informational?style=flat&color=&logoColor=white&labelColor=black&logo=kodi" />
+# #+HTML: </a>
+# #+HTML: <a href="https://xfce.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-XFCE-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xfce" />
+# #+HTML: </a>
+# #+HTML: <a href="http://www.gnome.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Gnome-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnome" />
+# #+HTML: </a>
+# #+HTML: <a href="https://www.archlinux.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Arch-informational?style=flat&color=&logoColor=white&labelColor=black&logo=arch-linux" />
+# #+HTML: </a>
+# #+HTML: <a href="https://nixos.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-NixOS-informational?style=flat&color=&logoColor=white&labelColor=black&logo=nixos" />
+# #+HTML: </a>
+# #+HTML: <a href="https://www.gentoo.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-gentoo-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gentoo" />
+# #+HTML: </a>
+# #+HTML: <a href="https://forum.xda-developers.com/android/">
+# #+HTML:   <img src="https://img.shields.io/badge/-XDA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xda-developers" />
+# #+HTML: </a>
+# #+HTML: <a href="https://maemo.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-maemo-informational?style=flat&color=&logoColor=white&labelColor=black" />
+# #+HTML: </a>
+# #+HTML: <a href="https://www.wikipedia.org/">
+# #+HTML:   <img src="https://img.shields.io/badge/-Wikipedia-informational?style=flat&color=&logoColor=white&labelColor=black&logo=wikipedia" />
+# #+HTML: </a>
 #+HTML: </td></tr></tbody></table>
 
 
