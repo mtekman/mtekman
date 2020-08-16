@@ -33,6 +33,7 @@
 Hey. This is a little static profile. It's by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. Click the badges above for links to my public profiles.
 
 
+-----
 ** In Brief:
 
 #+HTML: <a href="" >
@@ -45,8 +46,8 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
 #+HTML: </a></td></tr>
 
-# -----
 
+-----
 ** In Essence:
 
 #+HTML: <table>
@@ -209,8 +210,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 # #+HTML: </a>
 #+HTML: </td></tr></tbody></table>
 
-# -----
-
+-----
 ** In Detail:
 
 **** Work
