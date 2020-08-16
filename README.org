@@ -20,14 +20,11 @@
 #+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=393&logoColor=white&logo=google-scholar&labelColor=grey" />
 #+HTML: </a>
-#+HTML: <a href="CV/mtekman_cv.2020.pdf">
+#+HTML: <a href="mtekman_cv.2020.pdf">
 #+HTML:   <img src="https://img.shields.io/badge/CV-Resume-informational?style=flat&color=d66&logoColor=white&logo=internet-archive&labelColor=grey" />
 #+HTML: </a>
 #+HTML: </td></tr>
 #+HTML: </table>
-
-
-
 
 
 Hey. This is a little static profile. It's by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. Click the badges above for links to my public profiles.
