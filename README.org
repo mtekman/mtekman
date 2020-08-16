@@ -3,14 +3,13 @@
 
 Hi everyone. This is a little static profile about my interests. This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
-*In a Nutshell*
-
 # #+HTML: <table>
 # #+HTML: <thead><tr>
 # #+HTML:   <th>In a Nutshell</th>
 # #+HTML:   <th>Contact</th>
 # #+HTML: </tr></thead>
-# #+HTML: <tbody><tr><td>
+#+HTML: <table><tbody><tr>
+#+HTML: <td>In a Nutshell</td><td>
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
 #+HTML: </a>
@@ -19,11 +18,9 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML: </a>
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
-#+HTML: </a>
-# #+HTML: </td><td>
+#+HTML: </a></td>
 
-*Contact*
-
+#+HTML: <td>Contact</td><td>
 #+HTML: <a href="https://orcid.org/0000-0002-4181-2676">
 #+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
 #+HTML: </a>
@@ -35,9 +32,8 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML: </a>
 #+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=grey" />
-#+HTML: </a>
-# #+HTML: </td></tr>
-# #+HTML: </tbody></table>
+#+HTML: </a></td>
+#+HTML: </tbody></table>
 
 
 #+HTML: <table>
