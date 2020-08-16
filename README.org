@@ -1,11 +1,16 @@
 #+TITLE: Mehmet Tekman
 #+OPTIONS: toc:2
 
-TODO: See if you can export these into table cells
-
-Hi everyone. This is a little static profile about my interests.
+Hi everyone. This is a little static profile about my interests. This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
 In a nutshell:
+
+#+HTML: <table>
+#+HTML: <thead><tr>
+#+HTML:   <th>In a Nutshell</th>
+#+HTML:   <th>Contact</th>
+#+HTML: </tr></thead>
+#+HTML: <tbody><tr><td>
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
 #+HTML: </a>
@@ -15,12 +20,7 @@ In a nutshell:
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
 #+HTML: </a>
-
-This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
-
-
-Contact:
-
+#+HTML: </td><td>
 #+HTML: <a href="https://orcid.org/0000-0002-4181-2676">
 #+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
 #+HTML: </a>
@@ -30,6 +30,12 @@ Contact:
 #+HTML: <a href="https://www.researchgate.net/profile/Mehmet_Tekman">
 #+HTML:   <img src="https://img.shields.io/badge/-ResearchGate-informational?style=flat&color=brown&logoColor=white&logo=researchgate&labelColor=black" />
 #+HTML: </a>
+#+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
+#+HTML:   <img src="https://img.shields.io/badge/Google-Scholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=black" />
+#+HTML: </a>
+#+HTML: </td></tr>
+#+HTML: </tbody></table>
+
 
 #+HTML: <table>
 #+HTML: <thead><tr>
@@ -38,7 +44,7 @@ Contact:
 # #+HTML:   <th>Things I respect</th>
 #+HTML: </tr></thead>
 #+HTML: <tbody><tr><td>
-Languages:
+/Languages/
 #+HTML: <a href="" >
 #+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=gnu-bash" />
 #+HTML: </a>
@@ -66,21 +72,21 @@ Languages:
 #+HTML: <a href="" >
 #+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=blue&logoColor=white&labelColor=black" />
 #+HTML: </a>
-Frameworks:
+/Frameworks/
 #+HTML: <a href="https://magit.vc/">
-#+HTML:   <img src="https://img.shields.io/badge/-git+magit-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=git" />
+#+HTML:   <img src="https://img.shields.io/badge/-Git+Magit-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=git" />
 #+HTML: </a>
 #+HTML: <a href="https://orgmode.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-org--mode-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
+#+HTML:   <img src="https://img.shields.io/badge/-Org--Mode-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
 #+HTML: </a>
 #+HTML: <a href="https://jupyter.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-jupyter-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=jupyter" />
+#+HTML:   <img src="https://img.shields.io/badge/-Jupyter-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=jupyter" />
 #+HTML: </a>
 #+HTML: <a href="https://pandas.pydata.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-pandas-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=pandas" />
+#+HTML:   <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=pandas" />
 #+HTML: </a>
 #+HTML: <a href="https://dplyr.tidyverse.org/">
-#+HTML:   <img src="https://img.shields.io/badge/R-ggplot+dplyr-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
+#+HTML:   <img src="https://img.shields.io/badge/R-Dplyr+ggplot2-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
 #+HTML: </a>
 # #+HTML: <a href="https://bioconda.github.io/">
 # #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
@@ -92,14 +98,14 @@ Frameworks:
 #+HTML:   <img src="https://img.shields.io/badge/-Make/CMake-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=cmake" />
 #+HTML: </a>
 #+HTML: <a href="https://github.com/conda/conda">
-#+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
+#+HTML:   <img src="https://img.shields.io/badge/-Conda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
 #+HTML: </a>
 #+HTML: <a href="https://www.docker.com/">
-#+HTML:   <img src="https://img.shields.io/badge/-docker-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=docker" />
+#+HTML:   <img src="https://img.shields.io/badge/-Docker-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=docker" />
 #+HTML: </a>
 #+HTML: </td>
 #+HTML: <td>
-Android:
+/Android/
 #+HTML: <a href="https://lineageos.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-Lineage-informational?style=flat&color=&logoColor=white&labelColor=black&logo=lineageOS" />
 #+HTML: </a>
@@ -109,7 +115,7 @@ Android:
 #+HTML: <a href="https://magisk.me/">
 #+HTML:   <img src="https://img.shields.io/badge/-magisk-informational?style=flat&color=&logoColor=white&labelColor=black&logo=magisk" />
 #+HTML: </a>
-Desktop:
+/Desktop/
 #+HTML: <a href="https://stumpwm.github.io/">
 #+HTML:   <img src="https://img.shields.io/badge/WM-StumpWM-informational?style=flat&color=&logoColor=white&labelColor=black" />
 #+HTML: </a>
