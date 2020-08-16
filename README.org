@@ -18,9 +18,9 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML: </a>
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
-#+HTML: </a></td>
+#+HTML: </a></td></tr>
 
-#+HTML: <td>Contact</td><td>
+#+HTML: <tr><td>Contact</td><td>
 #+HTML: <a href="https://orcid.org/0000-0002-4181-2676">
 #+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
 #+HTML: </a>
@@ -32,7 +32,7 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML: </a>
 #+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=grey" />
-#+HTML: </a></td>
+#+HTML: </a></td></tr>
 #+HTML: </tbody></table>
 
 
