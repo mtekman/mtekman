@@ -16,15 +16,23 @@
 
 Hi everyone. This is a little static profile about my interests. This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
-#+HTML: <b>In a Nutshell:</b><a href="" >
-#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=ef7d10" />
+-------------
+
+*In a Nutshell*
+
+#+HTML: <a href="" >
+#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=ef7d10" />
+#+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=b44baa" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=ef7d10" />
+#+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
 #+HTML: </a></td></tr>
+
+-------------
+
+*A Little More*
 
 #+HTML: <table>
 #+HTML: <thead><tr>
@@ -185,6 +193,11 @@ Hi everyone. This is a little static profile about my interests. This README is 
 # #+HTML:   <img src="https://img.shields.io/badge/-Wikipedia-informational?style=flat&color=&logoColor=white&labelColor=black&logo=wikipedia" />
 # #+HTML: </a>
 #+HTML: </td></tr></tbody></table>
+
+
+------------
+
+*A Lot More*
 
 
 ** Academic CV and Publications
