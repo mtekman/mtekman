@@ -32,7 +32,6 @@
 
 Hey. This is a little static profile. It's by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. Click the badges above for links to my public profiles.
 
------
 
 /In Brief:/
 
@@ -87,59 +86,59 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML: </a>
 /Frameworks/
 #+HTML: <a href="https://magit.vc/">
-#+HTML:   <img src="https://img.shields.io/badge/-Git+Magit-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=git" />
+#+HTML:   <img src="https://img.shields.io/badge/-Git+Magit-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=git" />
 #+HTML: </a>
 #+HTML: <a href="https://orgmode.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Org--Mode-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
+#+HTML:   <img src="https://img.shields.io/badge/-Org--Mode-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=gnu-emacs" />
 #+HTML: </a>
 #+HTML: <a href="https://jupyter.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Jupyter-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=jupyter" />
+#+HTML:   <img src="https://img.shields.io/badge/-Jupyter-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=jupyter" />
 #+HTML: </a>
 #+HTML: <a href="https://pandas.pydata.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=pandas" />
+#+HTML:   <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=pandas" />
 #+HTML: </a>
 #+HTML: <a href="https://dplyr.tidyverse.org/">
-#+HTML:   <img src="https://img.shields.io/badge/R-dplyr+ggplot2-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
+#+HTML:   <img src="https://img.shields.io/badge/R-dplyr+ggplot2-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=" />
 #+HTML: </a>
 # #+HTML: <a href="https://bioconda.github.io/">
-# #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
+# #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=anaconda" />
 # #+HTML: </a>
 #+HTML: <a href="https://www.qt.io/">
-#+HTML:   <img src="https://img.shields.io/badge/-Qt-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=qt" />
+#+HTML:   <img src="https://img.shields.io/badge/-Qt-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=qt" />
 #+HTML: </a>
 #+HTML: <a href="https://cmake.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Make/CMake-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=cmake" />
+#+HTML:   <img src="https://img.shields.io/badge/-Make/CMake-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=cmake" />
 #+HTML: </a>
 #+HTML: <a href="https://github.com/conda/conda">
-#+HTML:   <img src="https://img.shields.io/badge/-Conda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
+#+HTML:   <img src="https://img.shields.io/badge/-Conda-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=anaconda" />
 #+HTML: </a>
 #+HTML: <a href="https://www.docker.com/">
-#+HTML:   <img src="https://img.shields.io/badge/-Docker-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=docker" />
+#+HTML:   <img src="https://img.shields.io/badge/-Docker-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=docker" />
 #+HTML: </a>
 #+HTML: </td>
 #+HTML: <td>
 /Android/
 #+HTML: <a href="https://lineageos.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Lineage-informational?style=flat&color=&logoColor=white&labelColor=black&logo=lineageOS" />
+#+HTML:   <img src="https://img.shields.io/badge/-Lineage-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=lineageOS" />
 #+HTML: </a>
 #+HTML: <a href="https://f-droid.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-F--Droid-informational?style=flat&color=&logoColor=white&labelColor=black&logo=f-droid" />
+#+HTML:   <img src="https://img.shields.io/badge/-F--Droid-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=f-droid" />
 #+HTML: </a>
 #+HTML: <a href="https://magisk.me/">
-#+HTML:   <img src="https://img.shields.io/badge/-magisk-informational?style=flat&color=&logoColor=white&labelColor=black&logo=magisk" />
+#+HTML:   <img src="https://img.shields.io/badge/-magisk-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=magisk" />
 #+HTML: </a>
 /Desktop/
 #+HTML: <a href="https://stumpwm.github.io/">
-#+HTML:   <img src="https://img.shields.io/badge/WM-StumpWM-informational?style=flat&color=&logoColor=white&labelColor=black" />
+#+HTML:   <img src="https://img.shields.io/badge/WM-StumpWM-informational?style=flat&color=purple&logoColor=white&labelColor=black" />
 #+HTML: </a>
 #+HTML: <a href="https://www.gnu.org/software/gnuzilla/">
-#+HTML:   <img src="https://img.shields.io/badge/-IceCat-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-icecat" />
+#+HTML:   <img src="https://img.shields.io/badge/-IceCat-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-icecat" />
 #+HTML: </a>
 #+HTML: <a href="https://www.mozilla.org/en-US/">
-#+HTML:   <img src="https://img.shields.io/badge/-Firefox-informational?style=flat&color=&logoColor=white&labelColor=black&logo=firefox" />
+#+HTML:   <img src="https://img.shields.io/badge/-Firefox-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=firefox" />
 #+HTML: </a>
 #+HTML: <a href="https://www.blender.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Blender-informational?style=flat&color=&logoColor=white&labelColor=black&logo=blender" />
+#+HTML:   <img src="https://img.shields.io/badge/-Blender-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=blender" />
 #+HTML: </a>
 
 # #+HTML: <a href="https://www.audacityteam.org/">
@@ -147,66 +146,66 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 # #+HTML: </a>
 
 #+HTML: <a href="https://www.gimp.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-GIMP-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gimp" />
+#+HTML:   <img src="https://img.shields.io/badge/-GIMP-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gimp" />
 #+HTML: </a>
 #+HTML: <a href="https://inkscape.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Inkscape-informational?style=flat&color=&logoColor=white&labelColor=black&logo=inkscape" />
+#+HTML:   <img src="https://img.shields.io/badge/-Inkscape-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=inkscape" />
 #+HTML: </a>
 #+HTML: <a href="https://ublockorigin.com/">
-#+HTML:   <img src="https://img.shields.io/badge/-uBlockO-informational?style=flat&color=&logoColor=white&labelColor=black&logo=ublock-origin" />
+#+HTML:   <img src="https://img.shields.io/badge/-uBlockO-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=ublock-origin" />
 #+HTML: </a>
 #+HTML: </td>
 # #+HTML: <td>
 # #+HTML: <a href="https://bioconda.github.io/">
-# #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
+# #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
 # #+HTML: </a>
 # #+HTML: <a href="https://conda-forge.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-conda--forge-informational?style=flat&color=&logoColor=white&labelColor=black&logo=conda-forge" />
+# #+HTML:   <img src="https://img.shields.io/badge/-conda--forge-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=conda-forge" />
 # #+HTML: </a>
 # #+HTML: <a href="https://www.gnu.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-GNU+FSF-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu" />
+# #+HTML:   <img src="https://img.shields.io/badge/-GNU+FSF-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu" />
 # #+HTML: </a>
 # #+HTML: <a href="https://www.mozilla.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-Mozilla-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mozilla" />
+# #+HTML:   <img src="https://img.shields.io/badge/-Mozilla-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=mozilla" />
 # #+HTML: </a>
 # #+HTML: <a href="https://mastodon.social/">
-# #+HTML:   <img src="https://img.shields.io/badge/-Mastodon-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mastodon" />
+# #+HTML:   <img src="https://img.shields.io/badge/-Mastodon-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=mastodon" />
 # #+HTML: </a>
 # #+HTML: <a href="https://melpa.org/#/">
-# #+HTML:   <img src="https://img.shields.io/badge/-MELPA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-emacs" />
+# #+HTML:   <img src="https://img.shields.io/badge/-MELPA-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
 # #+HTML: </a>
 # #+HTML: <a href="https://www.openstreetmap.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-OpenStreetMap-informational?style=flat&color=&logoColor=white&labelColor=black&logo=openstreetmap" />
+# #+HTML:   <img src="https://img.shields.io/badge/-OpenStreetMap-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=openstreetmap" />
 # #+HTML: </a>
 # #+HTML: <a href="https://ipfs.io/">
-# #+HTML:   <img src="https://img.shields.io/badge/-IPFS-informational?style=flat&color=&logoColor=white&labelColor=black&logo=ipfs" />
+# #+HTML:   <img src="https://img.shields.io/badge/-IPFS-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=ipfs" />
 # #+HTML: </a>
 # #+HTML: <a href="https://kodi.tv/">
-# #+HTML:   <img src="https://img.shields.io/badge/-Kodi-informational?style=flat&color=&logoColor=white&labelColor=black&logo=kodi" />
+# #+HTML:   <img src="https://img.shields.io/badge/-Kodi-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=kodi" />
 # #+HTML: </a>
 # #+HTML: <a href="https://xfce.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-XFCE-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xfce" />
+# #+HTML:   <img src="https://img.shields.io/badge/-XFCE-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=xfce" />
 # #+HTML: </a>
 # #+HTML: <a href="http://www.gnome.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-Gnome-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnome" />
+# #+HTML:   <img src="https://img.shields.io/badge/-Gnome-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnome" />
 # #+HTML: </a>
 # #+HTML: <a href="https://www.archlinux.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-Arch-informational?style=flat&color=&logoColor=white&labelColor=black&logo=arch-linux" />
+# #+HTML:   <img src="https://img.shields.io/badge/-Arch-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=arch-linux" />
 # #+HTML: </a>
 # #+HTML: <a href="https://nixos.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-NixOS-informational?style=flat&color=&logoColor=white&labelColor=black&logo=nixos" />
+# #+HTML:   <img src="https://img.shields.io/badge/-NixOS-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=nixos" />
 # #+HTML: </a>
 # #+HTML: <a href="https://www.gentoo.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-gentoo-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gentoo" />
+# #+HTML:   <img src="https://img.shields.io/badge/-gentoo-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gentoo" />
 # #+HTML: </a>
 # #+HTML: <a href="https://forum.xda-developers.com/android/">
-# #+HTML:   <img src="https://img.shields.io/badge/-XDA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xda-developers" />
+# #+HTML:   <img src="https://img.shields.io/badge/-XDA-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=xda-developers" />
 # #+HTML: </a>
 # #+HTML: <a href="https://maemo.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-maemo-informational?style=flat&color=&logoColor=white&labelColor=black" />
+# #+HTML:   <img src="https://img.shields.io/badge/-maemo-informational?style=flat&color=purple&logoColor=white&labelColor=black" />
 # #+HTML: </a>
 # #+HTML: <a href="https://www.wikipedia.org/">
-# #+HTML:   <img src="https://img.shields.io/badge/-Wikipedia-informational?style=flat&color=&logoColor=white&labelColor=black&logo=wikipedia" />
+# #+HTML:   <img src="https://img.shields.io/badge/-Wikipedia-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=wikipedia" />
 # #+HTML: </a>
 #+HTML: </td></tr></tbody></table>
 
