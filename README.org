@@ -262,17 +262,17 @@ Analysis
 
 ***** Enterprise Software
 ****** Galaxy
-+ [[https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman][tools-iuc]] :: The tool recipe repository: 58 closed and 6 open pull-requests
-+ [[https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman][galaxy]] :: The core dev repository: 5 closed and 1 open pull-request
-+ [[https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman][training-material]] :: The teaching materials repository: 37 closed pull-requests
++ [[https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman][tools-iuc]] - The tool recipe repository: 58 closed and 6 open pull-requests
++ [[https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman][galaxy]] - The core dev repository: 5 closed and 1 open pull-request
++ [[https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman][training-material]] - The teaching materials repository: 37 closed pull-requests
 
 
 ***** Analysis
 ****** Linkage and Haplotype Analysis
-+ [[https://github.com/mtekman/HaploForge][HaploForge]] :: A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.
-+ [[https://github.com/mtekman/linkage_pipeline][Linkage Pipeline]] :: Linkage Analysis pipeline for both Autosomal and X-linked penetrances.
-+ [[https://github.com/mtekman/poster-haploforge][poster-haploforge]] :: Latex poster for Haploforge
-+ [[https://github.com/mtekman/phd_thesis][phd-thesis]] :: Latex of PhD Thesis
++ [[https://github.com/mtekman/HaploForge][HaploForge]] - A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.
++ [[https://github.com/mtekman/linkage_pipeline][Linkage Pipeline]] - Linkage Analysis pipeline for both Autosomal and X-linked penetrances.
++ [[https://github.com/mtekman/poster-haploforge][poster-haploforge]] - Latex poster for Haploforge
++ [[https://github.com/mtekman/phd_thesis][phd-thesis]] - Latex of PhD Thesis
 
 ****** Variant or Sequence Analysis
 ******* [[https://bitbucket.org/momo13/ovas-pipeline/][OVAS]] and [[https://github.com/mtekman/OVAS-ISOmaker][OVAS-maker]]
