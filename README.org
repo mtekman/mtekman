@@ -292,3 +292,10 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 + [[https://github.com/mtekman/AlbumMaker][AlbumMaker]] - Automates anonymous album creation using a dragndrop interface with unix backend.
 + [[https://github.com/mtekman/maemo_alarm][maemo-alarm]] - Commandline tool to interface with alarmd library on maemo.
 
+
+-----
+
+****** TODO:
+
++ Add teaching contributions
++ Add single cell projects
