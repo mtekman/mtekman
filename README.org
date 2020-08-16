@@ -70,8 +70,11 @@ Frameworks:
 #+HTML: <a href="https://magit.vc/">
 #+HTML:   <img src="https://img.shields.io/badge/-git+magit-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=git" />
 #+HTML: </a>
-#+HTML: <a href="Emacs">
-#+HTML:   <img src="https://img.shields.io/badge/-emacs-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
+#+HTML: <a href="https://orgmode.org/">
+#+HTML:   <img src="https://img.shields.io/badge/-org--mode-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=gnu-emacs" />
+#+HTML: </a>
+#+HTML: <a href="https://jupyter.org/">
+#+HTML:   <img src="https://img.shields.io/badge/-jupyter-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=jupyter" />
 #+HTML: </a>
 #+HTML: <a href="https://pandas.pydata.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-pandas-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=pandas" />
@@ -89,7 +92,7 @@ Frameworks:
 #+HTML:   <img src="https://img.shields.io/badge/-Make/CMake-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=cmake" />
 #+HTML: </a>
 #+HTML: <a href="https://github.com/conda/conda">
-#+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
+#+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
 #+HTML: </a>
 #+HTML: <a href="https://www.docker.com/">
 #+HTML:   <img src="https://img.shields.io/badge/-docker-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=docker" />
