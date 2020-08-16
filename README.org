@@ -14,11 +14,11 @@
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=grey" />
 #+HTML: </a>
 
-Hi everyone. This is a little static profile about my interests. This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
+Hey. This is a little static profile. The README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. 
 
--------------
+-----
 
-*In a Nutshell*
+/In Brief:/
 
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa" />
@@ -30,9 +30,9 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
 #+HTML: </a></td></tr>
 
--------------
+-----
 
-*A Little More*
+/In Essence:/
 
 #+HTML: <table>
 #+HTML: <thead><tr>
@@ -83,7 +83,7 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML:   <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=pandas" />
 #+HTML: </a>
 #+HTML: <a href="https://dplyr.tidyverse.org/">
-#+HTML:   <img src="https://img.shields.io/badge/R-Dplyr+ggplot2-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
+#+HTML:   <img src="https://img.shields.io/badge/R-dplyr+ggplot2-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
 #+HTML: </a>
 # #+HTML: <a href="https://bioconda.github.io/">
 # #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
@@ -194,10 +194,9 @@ Hi everyone. This is a little static profile about my interests. This README is 
 # #+HTML: </a>
 #+HTML: </td></tr></tbody></table>
 
+-----
 
-------------
-
-*A Lot More*
+/In Detail:/
 
 
 ** Academic CV and Publications
