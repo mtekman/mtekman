@@ -43,6 +43,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
 #+HTML: </a></td></tr>
+#+HTML: <br/><img src="https://github-readme-stats.vercel.app/api?username=mtekman&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&line_height=18" />
 
 # -----
 
