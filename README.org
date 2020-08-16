@@ -213,6 +213,51 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 /In Detail:/
 
+Analysis 
+
+#+HTML: <table>
+#+HTML:   <tr><td>Work</td>
+#+HTML:     <tr><td>
+#+HTML:     <table>
+#+HTML:       <tr><td>Enterprise Software</td>
+#+HTML:           <tr><td><table><tr>
+#+HTML:             <td>Galaxy</td>
+#+HTML:                 <tr><td>
+#+HTML:                 <table>
+#+HTML:                   <tr><td><a href="https://github.com/galaxyproject/tools-iuc/pulls?q=is%3Apr+author%3Amtekman">tools-iuc</a></td>
+#+HTML:                     <td>The tool recipe repository: 58 closed and 6 open pull-requests</td></tr>
+#+HTML:                   <tr><td><a href="https://github.com/galaxyproject/galaxy/pulls?q=is%3Apr+author%3Amtekman">galaxy</a></td>
+#+HTML:                     <td>The core dev repository: 5 closed and 1 open pull-request</td></tr>
+#+HTML:                   <tr><td><a href="https://github.com/galaxyproject/training-material/pulls?q=is%3Apr+author%3Amtekman">training-material</a></td>
+#+HTML:                     <td>The teaching materials repository: 37 closed pull-requests</td></tr>
+#+HTML:                 </table>
+#+HTML:                 </td></tr>
+#+HTML:           </tr></table></td></tr>
+#+HTML:       </tr>
+#+HTML:       <tr><td>Analysis</td>
+#+HTML:           <tr><td><table><tr>
+#+HTML:            <td>Linkage and Haplotype Analysis</td>
+#+HTML:                <tr><td>
+#+HTML:                 <table>
+#+HTML:                   <tr><td><a href="https://github.com/mtekman/HaploForge">HaploForge</a></td>
+#+HTML:                     <td>A Comprehensive Pedigree Drawing and Haplotype Visualisation Web Application.</td></tr>
+#+HTML:                   <tr><td><a href="https://github.com/mtekman/linkage_pipeline">Linkage Pipeline</a></td>
+#+HTML:                     <td>Linkage Analysis pipeline for both Autosomal and X-linked penetrances.</td></tr>
+#+HTML:                   <tr><td><a href="https://github.com/mtekman/poster-haploforge">poster-haploforge</a></td>
+#+HTML:                     <td>Latex poster for Haploforge</td></tr>
+#+HTML:                   <tr><td><a href="https://github.com/mtekman/phd_thesis">phd-thesis</a></td>
+#+HTML:                     <td>Latex of PhD Thesis</td></tr>
+#+HTML:                 </table>
+#+HTML:                 </td></tr>
+#+HTML:           </tr></table></td></tr>
+#+HTML:       </tr>
+#+HTML:     </table>
+#+HTML:     </td></tr>
+#+HTML:   </tr>   
+#+HTML: </table>
+
+
+
 ** Work
 
 *** Enterprise Software
