@@ -79,21 +79,21 @@ Frameworks:
 #+HTML: <a href="https://dplyr.tidyverse.org/">
 #+HTML:   <img src="https://img.shields.io/badge/R-ggplot+dplyr-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=" />
 #+HTML: </a>
-#+HTML: <a href="https://bioconda.github.io/">
-#+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
-#+HTML: </a>
+# #+HTML: <a href="https://bioconda.github.io/">
+# #+HTML:   <img src="https://img.shields.io/badge/-bioconda-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=anaconda" />
+# #+HTML: </a>
 #+HTML: <a href="https://www.qt.io/">
 #+HTML:   <img src="https://img.shields.io/badge/-Qt-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=qt" />
 #+HTML: </a>
 #+HTML: <a href="https://cmake.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-Make/CMake-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=cmake" />
 #+HTML: </a>
+#+HTML: <a href="https://github.com/conda/conda">
+#+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
+#+HTML: </a>
 #+HTML: <a href="https://www.docker.com/">
 #+HTML:   <img src="https://img.shields.io/badge/-docker-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=docker" />
 #+HTML: </a>
-# #+HTML: <a href="https://github.com/conda/conda">
-# #+HTML:   <img src="https://img.shields.io/badge/-conda-informational?style=flat&color=&logoColor=white&labelColor=black&logo=anaconda" />
-# #+HTML: </a>
 #+HTML: </td>
 #+HTML: <td>
 Android:
