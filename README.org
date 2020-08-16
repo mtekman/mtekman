@@ -56,20 +56,23 @@ Languages:
 #+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=&logoColor=white&labelColor=black&logo=C" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-perl-informational?style=flat&color=&logoColor=white&labelColor=black&logo=perl" />
+#+HTML:     <img src="https://img.shields.io/badge/-Perl-informational?style=flat&color=&logoColor=white&labelColor=black&logo=perl" />
 #+HTML: </a>
 #+HTML: <a href="" >
 #+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=&logoColor=white&labelColor=black&logo=mariadb" />
 #+HTML: </a>
 #+HTML: <a href="" >
-#+HTML:     <img src="https://img.shields.io/badge/-php-informational?style=flat&color=&logoColor=white&labelColor=black&logo=php" />
+#+HTML:     <img src="https://img.shields.io/badge/-PHP-informational?style=flat&color=&logoColor=white&labelColor=black&logo=php" />
 #+HTML: </a>
 #+HTML: <a href="" >
 #+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=&logoColor=white&labelColor=black" />
 #+HTML: </a>
-Languages:
+Frameworks:
 #+HTML: <a href="https://magit.vc/">
 #+HTML:   <img src="https://img.shields.io/badge/-git+magit-informational?style=flat&color=&logoColor=white&labelColor=black&logo=git" />
+#+HTML: </a>
+#+HTML: <a href="Emacs">
+#+HTML:   <img src="https://img.shields.io/badge/-emacs-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-emacs" />
 #+HTML: </a>
 #+HTML: <a href="https://pandas.pydata.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-pandas-informational?style=flat&color=&logoColor=white&labelColor=black&logo=pandas" />
@@ -165,6 +168,9 @@ Desktop:
 #+HTML: </a>
 #+HTML: <a href="https://forum.xda-developers.com/android/">
 #+HTML:   <img src="https://img.shields.io/badge/-XDA-informational?style=flat&color=&logoColor=white&labelColor=black&logo=xda-developers" />
+#+HTML: </a>
+#+HTML: <a href="https://maemo.org/">
+#+HTML:   <img src="https://img.shields.io/badge/-maemo-informational?style=flat&color=&logoColor=white&labelColor=black" />
 #+HTML: </a>
 #+HTML: <a href="https://www.wikipedia.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-Wikipedia-informational?style=flat&color=&logoColor=white&labelColor=black&logo=wikipedia" />
