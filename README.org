@@ -32,12 +32,11 @@ Contact:
 #+HTML: </a>
 
 #+HTML: <table>
-# #+HTML: <thead><tr>
-# #+HTML:   <th>Languages</th>
-# #+HTML:   <th>Frameworks</th>
-# #+HTML:   <th>Daily Drivers</th>
+#+HTML: <thead><tr>
+#+HTML:   <th>Languages + Frameworks</th>
+#+HTML:   <th>Daily Drivers</th>
 # #+HTML:   <th>Things I respect</th>
-# #+HTML: </tr></thead>
+#+HTML: </tr></thead>
 #+HTML: <tbody><tr><td>
 Languages:
 #+HTML: <a href="" >
