@@ -1,11 +1,15 @@
 #+TITLE: Mehmet Tekman
 #+OPTIONS: toc:2
 
-#+HTML: <a href="https://orcid.org/0000-0002-4181-2676">
-#+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
-#+HTML: </a>
-#+HTML: <a href="https://gitter.im/mtekman">
+#+HTML: Contact: <a href="https://gitter.im/mtekman">
 #+HTML:   <img src="https://img.shields.io/badge/Gitter-mtekman-informational?style=flat&color=brown&logoColor=white&logo=gitter" />
+#+HTML: </a>
+#+HTML: <a href="mailto:mtekman89@gmail.com">
+#+HTML:   <img src="https://img.shields.io/badge/-mtekman89-informational?style=flat&color=brown&logoColor=white&logo=gmail" />
+#+HTML: </a>
+#+HTML: <br/>
+#+HTML: Profiles + CV: <a href="https://orcid.org/0000-0002-4181-2676">
+#+HTML:   <img src="https://img.shields.io/badge/ORCID-0000--0002--4181--2676-informational?style=flat&color=brown&logoColor=white&logo=orcid" />
 #+HTML: </a>
 #+HTML: <a href="https://www.researchgate.net/profile/Mehmet_Tekman">
 #+HTML:   <img src="https://img.shields.io/badge/-ResearchGate-informational?style=flat&color=brown&logoColor=white&logo=researchgate&labelColor=grey" />
@@ -14,7 +18,9 @@
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=brown&logoColor=white&logo=google-scholar&labelColor=grey" />
 #+HTML: </a>
 
-Hey. This is a little static profile. The README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. 
+
+
+Hey. This is a little static profile. It's by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way. Click the badges above for links to my public profiles.
 
 -----
 
