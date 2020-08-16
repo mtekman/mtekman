@@ -32,13 +32,14 @@ Contact:
 #+HTML: </a>
 
 #+HTML: <table>
-#+HTML: <thead><tr>
-#+HTML:   <th>Languages</th>
-#+HTML:   <th>Frameworks</th>
-#+HTML:   <th>Daily Drivers</th>
-#+HTML:   <th>Things I respect</th>
-#+HTML: </tr></thead>
+# #+HTML: <thead><tr>
+# #+HTML:   <th>Languages</th>
+# #+HTML:   <th>Frameworks</th>
+# #+HTML:   <th>Daily Drivers</th>
+# #+HTML:   <th>Things I respect</th>
+# #+HTML: </tr></thead>
 #+HTML: <tbody><tr><td>
+Languages:
 #+HTML: <a href="" >
 #+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=&logoColor=white&labelColor=black&logo=gnu-bash" />
 #+HTML: </a>
@@ -66,8 +67,7 @@ Contact:
 #+HTML: <a href="" >
 #+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=&logoColor=white&labelColor=black" />
 #+HTML: </a>
-#+HTML: </td>
-#+HTML: <td>
+Languages:
 #+HTML: <a href="https://magit.vc/">
 #+HTML:   <img src="https://img.shields.io/badge/-git+magit-informational?style=flat&color=&logoColor=white&labelColor=black&logo=git" />
 #+HTML: </a>
