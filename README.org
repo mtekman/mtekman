@@ -270,23 +270,25 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 + [[https://github.com/mtekman/org-tanglesync.el][org-tanglesync.el]] - Sync changes between internal org-mode source blocks and tangled files
 + [[https://github.com/mtekman/org-calories.el][org-calories.el]] - A calorie tracking food and fitness package for logging your intake/outtake
 
-***** Productivity
-****** ZoteroGoogleDrive-PDFLinker
-+ [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][Local]] version, and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][Cloud]] version - Unites your google drive storage with your Zotero database.
-****** [[https://github.com/mtekman/ShellUtils][ShellUtils]] - Shell functions and scripts for general work (and play) use.
-
 ***** Random
-****** Games and Javascript Demos
 
-+ P2 Raycast Demo - Raycast.js
-+ [[https://github.com/mtekman/Slidey][Slidey]] - HTML5 Slides Creator and Editor
-+ TreeDemo - Messing around with generational trees. For a much more professional outlook, see the Benchmark test in HaploForge.
-+ [[https://github.com/mtekman/diaspora_installer][diaspora-installer]] - Installer for the BattleStart Galactica Diaspora mod of the FreeSpace2 game
-+ [[https://github.com/mtekman/runescape-motiondetector][runescape-motiondetector]] - Looks for mineable items in Runescape using OpenCV blob detection, and simulates mouse clicks in Xorg
+****** Productivity
++ ZoteroGoogleDrive-PDFLinker - [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][Local]] version, and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][Cloud]] version - Unites your google drive storage with your Zotero database.
++ [[https://github.com/mtekman/ShellUtils][ShellUtils]] - Shell functions and scripts for general work (and play) use.
 
 ****** Security
 + [[https://github.com/mtekman/PAM-curses-warning-formatter][PAM-curses-warning-formatter]] - An example curses program tied in with PAM authentication that executes upon (maxtry) failure
 + [[https://github.com/mtekman/iptables-autobanner][iptables-autobanner]] - Checks journalctl logs for forced entry and adds malicious ip to the iptables ban list, run ideally with cron.
+
+****** Games and Javascript Demos
+
++ [[https://github.com/mtekman/Slidey][Slidey]] - HTML5 Slides Creator and Editor
++ [[https://github.com/mtekman/diaspora_installer][diaspora-installer]] - Installer for the BattleStart Galactica Diaspora mod of the FreeSpace2 game
++ [[https://github.com/mtekman/runescape-motiondetector][runescape-motiondetector]] - Looks for mineable items in Runescape using OpenCV blob detection, and simulates mouse clicks in Xorg
++ P2 Raycast Demo - Raytracing test using Canvas and pixiJS
++ TreeDemo - Messing around with generational trees. For a much more professional outlook, see the Benchmark test in HaploForge.
+
+****** Other
 + [[https://github.com/mtekman/PyFlogger][PyFlogger]] - CLI python food logger and calorific content displayer
 + [[https://github.com/mtekman/AlbumMaker][AlbumMaker]] - Automates anonymous album creation using a dragndrop interface with unix backend.
 + [[https://github.com/mtekman/maemo_alarm][maemo-alarm]] - Commandline tool to interface with alarmd library on maemo.
