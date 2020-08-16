@@ -45,7 +45,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
 #+HTML: </a></td></tr>
 
------
+# -----
 
 ** In Essence:
 
@@ -209,7 +209,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 # #+HTML: </a>
 #+HTML: </td></tr></tbody></table>
 
------
+# -----
 
 ** In Detail:
 
