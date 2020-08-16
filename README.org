@@ -16,8 +16,7 @@
 
 Hi everyone. This is a little static profile about my interests. This README is by far not everything, but I've included repos of mine that I either dedicated a lot of time to, or am proud in some teeny tiny way.
 
-*In a Nutshell*:
-#+HTML: <a href="" >
+#+HTML: <b>In a Nutshell:</b><a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
 #+HTML: </a>
 #+HTML: <a href="" >
@@ -26,10 +25,6 @@ Hi everyone. This is a little static profile about my interests. This README is 
 #+HTML: <a href="" >
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=purple" />
 #+HTML: </a></td></tr>
-
-#+HTML: <tr><td>Contact</td><td>
-#+HTML: </tbody></table>
-
 
 #+HTML: <table>
 #+HTML: <thead><tr>
