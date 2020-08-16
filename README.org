@@ -20,7 +20,7 @@
 #+HTML: <a href="https://scholar.google.de/citations?user=HVwU31YAAAAJ">
 #+HTML:   <img src="https://img.shields.io/badge/-GScholar-informational?style=flat&color=393&logoColor=white&logo=google-scholar&labelColor=grey" />
 #+HTML: </a>
-#+HTML: <a href="mtekman_cv.2020.pdf">
+#+HTML: <a href="https://drive.google.com/file/d/1VKsOJ3v3WGJshGqNn7Rc43rfbVKeGV6L/view?usp=sharing">
 #+HTML:   <img src="https://img.shields.io/badge/CV-Resume-informational?style=flat&color=d66&logoColor=white&logo=internet-archive&labelColor=grey" />
 #+HTML: </a>
 #+HTML: </td></tr>
