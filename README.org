@@ -34,13 +34,13 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 *** [In Brief]
 
-#+HTML: <a>
-#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa" />
+#+HTML: <a href="">
+#+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa&" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=b44baa" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
 #+HTML: </a></td></tr>
 #+HTML: <br/><img src="https://github-readme-stats.vercel.app/api?username=mtekman&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&line_height=18" />
@@ -57,31 +57,31 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML: </tr></thead>
 #+HTML: <tbody><tr><td>
 /Languages/
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=gnu-bash" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-R-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=r" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=python" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=javascript" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=C" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-Perl-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=perl" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=mariadb" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/-PHP-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=php" />
 #+HTML: </a>
-#+HTML: <a>
+#+HTML: <a href="">
 #+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=blue&logoColor=white&labelColor=black" />
 #+HTML: </a>
 /Frameworks/
