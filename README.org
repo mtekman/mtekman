@@ -34,15 +34,15 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 *** [In Brief]
 
-#+HTML: <span>
+#+HTML: <a>
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=b44baa" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
-#+HTML: </span></td></tr>
+#+HTML: </a></td></tr>
 #+HTML: <br/><img src="https://github-readme-stats.vercel.app/api?username=mtekman&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&line_height=18" />
 
 # -----
@@ -57,33 +57,33 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML: </tr></thead>
 #+HTML: <tbody><tr><td>
 /Languages/
-#+HTML: <span>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=gnu-bash" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-R-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=r" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=python" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=javascript" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=C" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-Perl-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=perl" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=mariadb" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/-PHP-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=php" />
-#+HTML: </span>
-#+HTML: <span>
+#+HTML: </a>
+#+HTML: <a>
 #+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=blue&logoColor=white&labelColor=black" />
-#+HTML: </span>
+#+HTML: </a>
 /Frameworks/
 #+HTML: <a href="https://magit.vc/">
 #+HTML:   <img src="https://img.shields.io/badge/-Git+Magit-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=git" />
@@ -273,7 +273,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 ***** Random
 
 ****** Productivity
-+ [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][ZoteroGoogleDrive-PDFLinker [Local]]] and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][[Cloud]]] - Unites your GDrive storage with your Zotero database.
++ [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][ZoteroGoogleDrive-PDFLinker (Local)]] and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][(Cloud)]] - Unites your GDrive storage with your Zotero database.
 + [[https://github.com/mtekman/ShellUtils][ShellUtils]] - Shell functions and scripts for general work (and play) use.
 
 ****** Security
