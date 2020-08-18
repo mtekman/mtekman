@@ -119,7 +119,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML: <td>
 /Android/
 #+HTML: <a href="https://lineageos.org/">
-#+HTML:   <img src="https://img.shields.io/badge/-Lineage-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=lineageOS" />
+#+HTML:   <img src="https://img.shields.io/badge/-crDroid-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=lineageOS" />
 #+HTML: </a>
 #+HTML: <a href="https://f-droid.org/">
 #+HTML:   <img src="https://img.shields.io/badge/-F--Droid-informational?style=flat&color=purple&logoColor=white&labelColor=black&logo=f-droid" />
