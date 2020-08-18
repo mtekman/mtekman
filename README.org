@@ -34,15 +34,15 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 *** [In Brief]
 
-#+HTML: <a href="" >
+#+HTML: <span>
 #+HTML:   <img src="https://img.shields.io/badge/Linux-NixOS+Arch-informational?style=flat&logo=linux&labelColor=444&logoColor=white&color=b44baa" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:   <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&labelColor=444&logo=gnu-emacs&logoColor=red&color=b44baa" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:   <img src="https://img.shields.io/badge/Life-Org--Mode-informational?style=flat&labelColor=444&logo=gnu&logoColor=&color=b44baa" />
-#+HTML: </a></td></tr>
+#+HTML: </span></td></tr>
 #+HTML: <br/><img src="https://github-readme-stats.vercel.app/api?username=mtekman&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&line_height=18" />
 
 # -----
@@ -57,33 +57,33 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 #+HTML: </tr></thead>
 #+HTML: <tbody><tr><td>
 /Languages/
-#+HTML: <a href="" >
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-Bash-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=gnu-bash" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-R-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=r" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-Python-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=python" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=javascript" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-C/C++-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=C" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-Perl-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=perl" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-MariaDB/SQLite-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=mariadb" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/-PHP-informational?style=flat&color=blue&logoColor=white&labelColor=black&logo=php" />
-#+HTML: </a>
-#+HTML: <a href="" >
+#+HTML: </span>
+#+HTML: <span>
 #+HTML:     <img src="https://img.shields.io/badge/Lisp-Emacs+Common-informational?style=flat&color=blue&logoColor=white&labelColor=black" />
-#+HTML: </a>
+#+HTML: </span>
 /Frameworks/
 #+HTML: <a href="https://magit.vc/">
 #+HTML:   <img src="https://img.shields.io/badge/-Git+Magit-informational?style=flat&color=brown&logoColor=white&labelColor=black&logo=git" />
@@ -262,9 +262,9 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 + [[https://github.com/mtekman/wiki-drill.el][wiki-drill.el]] - Elisp library to convert wiki-summary texts into org-drill
 + [WIP] [[https://github.com/mtekman/planemo-mode.el][planemo-mode.el]] - A mode to generate Galaxy XML tool files
 
-****** Org-Mode Packages                                            :orgmode:     
-     
-+ [[https://github.com/mtekman/org-tanglesync.el][org-mode-manager]] - A tree-like management tool for your org-mode files
+****** Org-Mode Packages                                            :orgmode:
+
++ [[https://github.com/mtekman/org-mode-manager][org-mode-manager]] - A tree-like management tool for your org-mode files
 + [[https://github.com/mtekman/org-treeusage.el][org-treeusage.el]] - Examine the density of org headings
 + [[https://github.com/mtekman/org-treescope.el][org-treescope.el]] - Provides a time and priority based sparse tree interaction mode
 + [[https://github.com/mtekman/org-tanglesync.el][org-tanglesync.el]] - Sync changes between internal org-mode source blocks and tangled files
@@ -273,7 +273,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 ***** Random
 
 ****** Productivity
-+ ZoteroGoogleDrive-PDFLinker - [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][Local]] version, and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][Cloud]] version - Unites your google drive storage with your Zotero database.
++ [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker][ZoteroGoogleDrive-PDFLinker [Local]]] and [[https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud][[Cloud]]] - Unites your GDrive storage with your Zotero database.
 + [[https://github.com/mtekman/ShellUtils][ShellUtils]] - Shell functions and scripts for general work (and play) use.
 
 ****** Security
@@ -284,7 +284,7 @@ Hey. This is a little static profile. It's by far not everything, but I've inclu
 
 + [[https://github.com/mtekman/Slidey][Slidey]] - HTML5 Slides Creator and Editor
 + [[https://github.com/mtekman/diaspora_installer][diaspora-installer]] - Installer for the BattleStart Galactica Diaspora mod of the FreeSpace2 game
-+ [[https://github.com/mtekman/runescape-motiondetector][runescape-motiondetector]] - Looks for mineable items in Runescape using OpenCV blob detection, and simulates mouse clicks in Xorg
++ [[https://github.com/mtekman/runescape-motiondetector][runescape-motiondetector]] - Looks for mineable items in Runescape using OpenCV Blob detection, and autoclicks them in X11
 + P2 Raycast Demo - Raytracing test using Canvas and pixiJS
 + TreeDemo - Messing around with generational trees. For a much more professional outlook, see the Benchmark test in HaploForge.
 
